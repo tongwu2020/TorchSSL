@@ -21,10 +21,10 @@ TorchSSL is an all-in-one toolkit based on PyTorch for semi-supervised learning 
 2. MeanTeacher (NeurIPS 2017) [2]
 3. PseudoLabel (ICML 2013) [3]
 4. VAT (Virtual adversarial training, TPAMI 2018) [4]
-5. MixMatch (NeurIPS 2019) [5]
-6. UDA (Unsupervised data augmentation, NeurIPS 2020) [6]
+5. MixMatch (NeurIPS 2019) [5] **
+6. UDA (Unsupervised data augmentation, NeurIPS 2020) [6] **
 7. ReMixMatch (ICLR 2019) [7]
-8. FixMatch (NeurIPS 2020) [8]
+8. FixMatch (NeurIPS 2020) [8] **
 9. FlexMatch (NeurIPS 2021) [9]
 
 Besides, we implement our Curriculum Pseudo Labeling (CPL) method for Pseudo-Label (Flex-Pseudo-Label) and UDA (Flex-UDA).
